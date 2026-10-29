@@ -24,6 +24,12 @@
     <a href="https://hosted.weblate.org/engage/auxio/"><img height=64 src="https://hosted.weblate.org/widgets/auxio/-/strings/287x66-grey.png" alt="Translation status" /></a>
 </p>
 
+> [!NOTE]
+> This is a personal, modified build of [Auxio](https://github.com/OxygenCobalt/Auxio), created by
+> Alexander Capehart ([OxygenCobalt](https://github.com/OxygenCobalt)) and the Auxio contributors.
+> All credit for the original app goes to them. This fork is distributed under the same
+> [GPL-3.0 license](LICENSE). Please report issues with this build here, not to the original project.
+
 ## About
 
 Auxio is a local music player with a fast, reliable UI/UX without the many useless features present in other music players. Built off of modern media playback libraries, Auxio has superior library support and listening quality compared to other apps that use outdated Android functionality. In short, **It plays music.**
